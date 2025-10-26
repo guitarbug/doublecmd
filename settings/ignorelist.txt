@@ -1,0 +1,6 @@
+desktop.ini
+$Recycle.Bin
+@eaDir
+@tmp
+~*
+System Volume Information

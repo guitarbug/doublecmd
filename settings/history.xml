@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doublecmd>
+  <History>
+    <Navigation>
+      <Item>c:\</Item>
+      <Item>d:\doublecmd\settings\</Item>
+      <Item>d:\doublecmd\</Item>
+      <Item>d:\</Item>
+      <Item>d:\msys64\</Item>
+      <Item>D:\doublecmd\pixmaps\dctheme\96x96\actions\</Item>
+      <Item>D:\doublecmd\pixmaps\dctheme\96x96\</Item>
+      <Item>D:\doublecmd\pixmaps\dctheme\</Item>
+      <Item>D:\doublecmd\pixmaps\</Item>
+    </Navigation>
+    <CommandLine/>
+    <FileMask/>
+    <VolumeSize/>
+    <CreateDirectories/>
+    <SearchText/>
+    <SearchTextPath/>
+    <ReplaceText/>
+    <ReplaceTextPath/>
+    <RenameNameMask/>
+    <RenameExtMask/>
+    <SearchDirectories/>
+    <SearchExcludeFiles/>
+    <SearchExcludeDirectories/>
+  </History>
+</doublecmd>

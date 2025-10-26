@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doublecmd>
+  <Tabs>
+    <OpenedTabs>
+      <Left>
+        <ActiveTab>0</ActiveTab>
+        <Tab>
+          <FileView Type="columns">
+            <Sortings>
+              <Sorting>
+                <Direction>2</Direction>
+                <Function>7</Function>
+              </Sorting>
+            </Sortings>
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="debug.txt">D:\doublecmd\</Path>
+                  <Path Filename="msys64">d:\</Path>
+                  <Path Filename="..">d:\msys64\</Path>
+                  <Path Filename="doublecmd">d:\</Path>
+                  <Path Filename="settings">d:\doublecmd\</Path>
+                  <Path Filename="favoritetabs.xml">d:\doublecmd\settings\</Path>
+                  <Path Filename="Program Files">c:\</Path>
+                </Paths>
+              </Entry>
+            </History>
+            <ColumnsView>
+              <ColumnsSet>Default</ColumnsSet>
+            </ColumnsView>
+          </FileView>
+        </Tab>
+      </Left>
+      <Right>
+        <ActiveTab>0</ActiveTab>
+        <Tab>
+          <FileView Type="columns">
+            <Sortings>
+              <Sorting>
+                <Direction>2</Direction>
+                <Function>12</Function>
+              </Sorting>
+            </Sortings>
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="pixmaps">D:\doublecmd\</Path>
+                  <Path Filename="dctheme">D:\doublecmd\pixmaps\</Path>
+                  <Path Filename="96x96">D:\doublecmd\pixmaps\dctheme\</Path>
+                  <Path Filename="actions">D:\doublecmd\pixmaps\dctheme\96x96\</Path>
+                  <Path Filename="..">D:\doublecmd\pixmaps\dctheme\96x96\actions\</Path>
+                  <Path Filename="msys64">d:\</Path>
+                  <Path Filename="etc">d:\msys64\</Path>
+                  <Path Filename="Windows">c:\</Path>
+                </Paths>
+              </Entry>
+            </History>
+            <ColumnsView>
+              <ColumnsSet>Default</ColumnsSet>
+            </ColumnsView>
+          </FileView>
+        </Tab>
+      </Right>
+    </OpenedTabs>
+  </Tabs>
+</doublecmd>
