@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doublecmd>
+  <FavoriteTabsList>
+    <FavoriteTabs UniqueID="{8C38D11C-62C9-43FF-802E-5EDD73437D2D}" Name="-test"/>
+    <FavoriteTabs UniqueID="{A843EA2B-FECE-429B-862E-2ADC456679BB}" Name="Drag here other entries" DestLeft="0" DestRight="1" ExistingKeep="5" SaveDirHistory="False"/>
+    <FavoriteTabs UniqueID="{251E3102-9983-48A8-A9D8-326262A35D0D}" Name="--"/>
+  </FavoriteTabsList>
+</doublecmd>
